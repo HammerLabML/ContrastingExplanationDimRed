@@ -1,0 +1,11 @@
+numpy==1.19.5
+cvxpy==1.1.19
+jax==0.2.17
+jaxlib==0.1.68
+optax==0.0.91
+flax==0.3.5
+scikit-learn==0.24.2
+pandas==1.1.5
+matplotlib==3.3.4
+sklearn-som==1.1.0
+tensorflow-cpu==1.15.0

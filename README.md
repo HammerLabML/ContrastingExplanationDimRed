@@ -36,4 +36,4 @@ MIT license - See [LICENSE](LICENSE)
 
 ## How to cite
 
-You can cite the version on [arXiv](http://arxiv.org/abs/2206.07391)
+You can cite the version on [arXiv](http://arxiv.org/abs/2206.07391) -- paper got accepted at [ICPRAM-2023](https://icpram.scitevents.org/)
